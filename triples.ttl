@@ -1,0 +1,35 @@
+
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix nk: <http://krsic.pro> .
+
+#######################################
+
+nk:Cyborg a rdfs:Class . 
+nk:Cyborg rdfs:label "Cyborg"^^xsd:string .
+
+nk:GuitarPlayer a rdfs:Class . 
+nk:GuitarPlayer rdfs:label "Guitar Player"^^xsd:string .
+
+nk:MusicProducer a rdfs:Class . 
+nk:MusicProducer rdfs:label "Music Producer"^^xsd:string .
+
+############################################
+
+nk:NikolaKrsic a nk:GuitarPlayer . 
+nk:NikolaKrsic a nk:Cyborg . 
+nk:NikolaKrsic rdfs:label "Nikola Krsic"^^xsd:string .
+
+nk:MarkoKrsic a nk:MusicProducer .
+nk:MarkoKrsic rdfs:label "Marko Krsic"^^xsd:string .
+
+nk:PlaysInstrument rdfs:label "plays instrument"^^xsd:string .
+nk:NikolaKrsic nk:PlaysInstrument nk:Guitar .
+nk:Guitar rdfs:label "Guitar"^^xsd:string .
+
+nk:MarkoKrsic nk:PlaysInstrument nk:Computer .
+nk:Computer rdfs:label "Computer"^^xsd:string .
+
+nk:NikolaKrsic nk:Brother nk:MarkoKrsic .
+nk:Brother rdfs:label "is brother"^^xsd:string .
