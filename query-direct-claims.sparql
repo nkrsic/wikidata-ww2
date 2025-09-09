@@ -1,0 +1,8 @@
+SELECT ?property ?propertyLabel ?value ?valueLabel
+WHERE {
+  wd:Q367200 ?propUrl ?value .
+  ?property wikibase:directClaim ?propUrl .
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+LIMIT 50
