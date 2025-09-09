@@ -1,0 +1,3354 @@
+{
+  "head": {
+    "vars": [
+      "connection",
+      "connectionLabel",
+      "item",
+      "itemLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/version"
+        },
+        "item": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2401652053"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/version"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "2401652053"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/dateModified"
+        },
+        "item": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2025-09-07T04:08:03Z"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/dateModified"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "2025-09-07T04:08:03Z"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "dag",
+          "type": "literal",
+          "value": "United Kingdom karimba ŋun nyɛ doo"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "United Kingdom karimba ŋun nyɛ doo"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "physicien britannique"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "physicien britannique"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "sv",
+          "type": "literal",
+          "value": "brittisk fysiker"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "brittisk fysiker"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "fa",
+          "type": "literal",
+          "value": "فیزیکدان بریتانیایی"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "فیزیکدان بریتانیایی"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "nn",
+          "type": "literal",
+          "value": "britisk fysikar"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "britisk fysikar"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "nb",
+          "type": "literal",
+          "value": "britisk fysiker"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "britisk fysiker"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "ar",
+          "type": "literal",
+          "value": "عالم فيزياء بريطاني، مسؤول المخابرات العلمية البريطانية في الحرب العالمية الثانية"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "عالم فيزياء بريطاني، مسؤول المخابرات العلمية البريطانية في الحرب العالمية الثانية"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "da",
+          "type": "literal",
+          "value": "britisk fysiker (1911-1997)"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "britisk fysiker (1911-1997)"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "britischer Physiker (1911-1997)"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "britischer Physiker (1911-1997)"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "World War II scientist (1911-1997)"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "World War II scientist (1911-1997)"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "hu",
+          "type": "literal",
+          "value": "angol fizikus, katonai hírszerző"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "angol fizikus, katonai hírszerző"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://schema.org/description"
+        },
+        "item": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Brits natuurkundige (1911-1997)"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://schema.org/description"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Brits natuurkundige (1911-1997)"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "ar",
+          "type": "literal",
+          "value": "ريجنالد جونز"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "ريجنالد جونز"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "it",
+          "type": "literal",
+          "value": "Reginald Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "arz",
+          "type": "literal",
+          "value": "ريجنالد جونز"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "ريجنالد جونز"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "azb",
+          "type": "literal",
+          "value": "رجینالد ویکتور جونز"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "رجینالد ویکتور جونز"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "ca",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "cs",
+          "type": "literal",
+          "value": "R. V. Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "R. V. Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "da",
+          "type": "literal",
+          "value": "R.V. Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "R.V. Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "eu",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "fa",
+          "type": "literal",
+          "value": "رجینالد ویکتور جونز"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "رجینالد ویکتور جونز"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "fi",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "ga",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "he",
+          "type": "literal",
+          "value": "ר.ו. ג'ונס"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "ר.ו. ג'ונס"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "hu",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "ja",
+          "type": "literal",
+          "value": "R・V・ジョーンズ"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "R・V・ジョーンズ"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "nb",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "nl",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "nn",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "pt",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "pt-br",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "sl",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "sq",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "sv",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "雷金纳德·维克多·琼斯"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "雷金纳德·维克多·琼斯"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "zh-hans",
+          "type": "literal",
+          "value": "雷金纳德·维克多·琼斯"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "雷金纳德·维克多·琼斯"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "item": {
+          "xml:lang": "zh-hant",
+          "type": "literal",
+          "value": "雷金納德·維克多·瓊斯"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2000/01/rdf-schema#label"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "雷金納德·維克多·瓊斯"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "item": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Reginald Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "item": {
+          "xml:lang": "da",
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "item": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "R. V. Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "R. V. Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "item": {
+          "xml:lang": "fi",
+          "type": "literal",
+          "value": "R. V. Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "R. V. Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "item": {
+          "xml:lang": "fi",
+          "type": "literal",
+          "value": "Reginald Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "item": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "雷金纳德·维克托·琼斯"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "雷金纳德·维克托·琼斯"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "item": {
+          "xml:lang": "zh-hant",
+          "type": "literal",
+          "value": "雷金納德·維克托·瓊斯"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.w3.org/2004/02/skos/core#altLabel"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "雷金納德·維克托·瓊斯"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://wikiba.se/ontology#statements"
+        },
+        "item": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "59"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://wikiba.se/ontology#statements"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "59"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://wikiba.se/ontology#sitelinks"
+        },
+        "item": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "14"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://wikiba.se/ontology#sitelinks"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "14"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://wikiba.se/ontology#identifiers"
+        },
+        "item": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "27"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://wikiba.se/ontology#identifiers"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "27"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P18"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Jones-Woolsey-deClarens.gif"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P18"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Jones-Woolsey-deClarens.gif"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P19"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q146553"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P19"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Herne Hill"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P20"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36405"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P20"
+        },
+        "itemLabel": {
+          "xml:lang": "mul",
+          "type": "literal",
+          "value": "Aberdeen"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P21"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6581097"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P21"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "male"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P27"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q145"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P27"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "United Kingdom"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "human"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P69"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2537765"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P69"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wadham College"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P69"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4732213"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P69"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alleyn's School"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q362"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "World War II"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4168000"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "military intelligence"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52197736"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P101"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "defence of the State"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q169470"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "physicist"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q381160"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "expert"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1622272"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "university teacher"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3400985"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P106"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "academic"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P108"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270532"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P108"
+        },
+        "itemLabel": {
+          "xml:lang": "mul",
+          "type": "literal",
+          "value": "University of Aberdeen"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P109"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Jones-Woolsey-deClarens.gif"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P109"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Jones-Woolsey-deClarens.gif"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5311657"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dennis Gabor Medal and Prize"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11415564"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "honorary doctorate"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12177472"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Companion of the Order of the Bath"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12201477"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Commander of the Order of the British Empire"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15631401"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fellow of the Royal Society"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21662139"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Maxwell Lecture"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50840990"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P166"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "honorary doctor of the University of Aberdeen"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P213"
+        },
+        "item": {
+          "type": "literal",
+          "value": "0000000110783019"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P213"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "0000000110783019"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P214"
+        },
+        "item": {
+          "type": "literal",
+          "value": "94964252"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P214"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "94964252"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P227"
+        },
+        "item": {
+          "type": "literal",
+          "value": "1055755403"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P227"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "1055755403"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P244"
+        },
+        "item": {
+          "type": "literal",
+          "value": "n77013401"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P244"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "n77013401"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P214"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://viaf.org/viaf/94964252"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P214"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://viaf.org/viaf/94964252"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P227"
+        },
+        "item": {
+          "type": "uri",
+          "value": "https://d-nb.info/gnd/1055755403"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P227"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "https://d-nb.info/gnd/1055755403"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P244"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://id.loc.gov/authorities/names/n77013401"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P244"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://id.loc.gov/authorities/names/n77013401"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P18"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-A569A9E3-011F-408F-B221-54BAECD9AFE1"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P18"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-A569A9E3-011F-408F-B221-54BAECD9AFE1"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P19"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-98B2CB84-CF73-489B-853D-ACFE44EE3FCB"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P19"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-98B2CB84-CF73-489B-853D-ACFE44EE3FCB"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P20"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-818BE5D8-293F-4953-926F-E3FB15FDF87B"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P20"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-818BE5D8-293F-4953-926F-E3FB15FDF87B"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P21"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/q367200-FEC4A7F0-EA78-49A5-8B17-CA8752E623DA"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P21"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/q367200-FEC4A7F0-EA78-49A5-8B17-CA8752E623DA"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P27"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/q367200-6D4D0262-6B92-4E1B-AA4D-D680E452DF17"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P27"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/q367200-6D4D0262-6B92-4E1B-AA4D-D680E452DF17"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P31"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-403A025E-1E11-44DE-A5CF-6816EB0C918C"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P31"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-403A025E-1E11-44DE-A5CF-6816EB0C918C"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P69"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-3F9ABB3D-4A37-4FB2-89C6-0E7DBFBA1CCE"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P69"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-3F9ABB3D-4A37-4FB2-89C6-0E7DBFBA1CCE"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P69"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-64584EFD-5CDE-45ED-961B-B42C1A870F51"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P69"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-64584EFD-5CDE-45ED-961B-B42C1A870F51"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P101"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-B638E9DE-DE70-4F1C-86B5-7F17C1503BE1"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P101"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-B638E9DE-DE70-4F1C-86B5-7F17C1503BE1"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P101"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-EBDDC777-CABA-43CB-8ECB-87A594F3B2AB"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P101"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-EBDDC777-CABA-43CB-8ECB-87A594F3B2AB"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P101"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-F0D0017B-5B60-4E17-A5F0-6B5D5BCF08CD"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P101"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-F0D0017B-5B60-4E17-A5F0-6B5D5BCF08CD"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P106"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-2184ad23-cbff-43f4-bed7-9a83ce3dc67a"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P106"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-2184ad23-cbff-43f4-bed7-9a83ce3dc67a"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P106"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-4b4646c6-1c76-4566-972c-d5207c250412"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P106"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-4b4646c6-1c76-4566-972c-d5207c250412"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P106"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-66E38B14-0817-445C-B9CC-CBB6BC6A1A06"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P106"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-66E38B14-0817-445C-B9CC-CBB6BC6A1A06"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P106"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-EFF122FD-B6EB-4479-945F-0C1B7B11272B"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P106"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-EFF122FD-B6EB-4479-945F-0C1B7B11272B"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P108"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-4E453126-C248-4040-B50C-37AB31BD7E01"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P108"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-4E453126-C248-4040-B50C-37AB31BD7E01"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P109"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-25D87D08-2B84-4D0A-8398-4EEFD46298B1"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P109"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-25D87D08-2B84-4D0A-8398-4EEFD46298B1"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-3DF8837B-EEE0-42B8-8447-E182E96F9003"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-3DF8837B-EEE0-42B8-8447-E182E96F9003"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-5389CFA3-1A73-48C6-9E68-FFC36708A63B"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-5389CFA3-1A73-48C6-9E68-FFC36708A63B"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-68A9DDDD-929E-42C8-A91F-EE66C7B4E68F"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-68A9DDDD-929E-42C8-A91F-EE66C7B4E68F"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-71ac46b7-4785-a00b-3d8a-7fc6ff586b4b"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-71ac46b7-4785-a00b-3d8a-7fc6ff586b4b"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-71e3b700-438b-76ca-bd90-ddaf80c0d3a6"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-71e3b700-438b-76ca-bd90-ddaf80c0d3a6"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-84db1dc1-4e89-2e9a-98e5-2d0f3b54d470"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-84db1dc1-4e89-2e9a-98e5-2d0f3b54d470"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-B30F633C-994E-445D-B5D5-AE5AC86C0F43"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P166"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-B30F633C-994E-445D-B5D5-AE5AC86C0F43"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P213"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/q367200-9EE1ECAA-379D-4BFD-89C2-76D70D28E54E"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P213"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/q367200-9EE1ECAA-379D-4BFD-89C2-76D70D28E54E"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P214"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/q367200-111548EF-4775-476A-A850-AA081B5409BD"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P214"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/q367200-111548EF-4775-476A-A850-AA081B5409BD"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P227"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-93F27FAA-AE5D-44A0-9F2B-7772E87CEE7E"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P227"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-93F27FAA-AE5D-44A0-9F2B-7772E87CEE7E"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P244"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/q367200-26A351B5-BEA4-40C3-8849-D6EEF0EA1404"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P244"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/q367200-26A351B5-BEA4-40C3-8849-D6EEF0EA1404"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P269"
+        },
+        "item": {
+          "type": "literal",
+          "value": "088788873"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P269"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "088788873"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P373"
+        },
+        "item": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P373"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Reginald Victor Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P463"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123885"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P463"
+        },
+        "itemLabel": {
+          "xml:lang": "mul",
+          "type": "literal",
+          "value": "The Royal Society"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P569"
+        },
+        "item": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1911-09-29T00:00:00Z"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P569"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "1911-09-29T00:00:00Z"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P570"
+        },
+        "item": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1997-12-17T00:00:00Z"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P570"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "1997-12-17T00:00:00Z"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P646"
+        },
+        "item": {
+          "type": "literal",
+          "value": "/m/01w77g"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P646"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "/m/01w77g"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P648"
+        },
+        "item": {
+          "type": "literal",
+          "value": "OL3155869A"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P648"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "OL3155869A"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P691"
+        },
+        "item": {
+          "type": "literal",
+          "value": "mzk2002102895"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P691"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "mzk2002102895"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P734"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59853"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P734"
+        },
+        "itemLabel": {
+          "xml:lang": "mul",
+          "type": "literal",
+          "value": "Jones"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P735"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q539581"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P735"
+        },
+        "itemLabel": {
+          "xml:lang": "mul",
+          "type": "literal",
+          "value": "Victor"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P735"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16280865"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P735"
+        },
+        "itemLabel": {
+          "xml:lang": "mul",
+          "type": "literal",
+          "value": "Reginald"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1006"
+        },
+        "item": {
+          "type": "literal",
+          "value": "070594619"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P1006"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "070594619"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1153"
+        },
+        "item": {
+          "type": "literal",
+          "value": "56958862700"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P1153"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "56958862700"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1207"
+        },
+        "item": {
+          "type": "literal",
+          "value": "n96208738"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P1207"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "n96208738"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1412"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1860"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P1412"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "English"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1415"
+        },
+        "item": {
+          "type": "literal",
+          "value": "68827"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P1415"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "68827"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2163"
+        },
+        "item": {
+          "type": "literal",
+          "value": "21058"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P2163"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "21058"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2163"
+        },
+        "item": {
+          "type": "literal",
+          "value": "1717829"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P2163"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "1717829"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2963"
+        },
+        "item": {
+          "type": "literal",
+          "value": "554737"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P2963"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "554737"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3029"
+        },
+        "item": {
+          "type": "literal",
+          "value": "F257548"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P3029"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "F257548"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3360"
+        },
+        "item": {
+          "type": "literal",
+          "value": "10691"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P3360"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "10691"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3368"
+        },
+        "item": {
+          "type": "literal",
+          "value": "588756"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P3368"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "588756"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P3430"
+        },
+        "item": {
+          "type": "literal",
+          "value": "w6pk40gp"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P3430"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "w6pk40gp"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5731"
+        },
+        "item": {
+          "type": "literal",
+          "value": "19995"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P5731"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "19995"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6821"
+        },
+        "item": {
+          "type": "literal",
+          "value": "alvin-person:64325"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P6821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "alvin-person:64325"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P7293"
+        },
+        "item": {
+          "type": "literal",
+          "value": "9810563079705606"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P7293"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "9810563079705606"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P8189"
+        },
+        "item": {
+          "type": "literal",
+          "value": "987007280574605171"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P8189"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "987007280574605171"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P10704"
+        },
+        "item": {
+          "type": "literal",
+          "value": "1999.0016"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P10704"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "1999.0016"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P10832"
+        },
+        "item": {
+          "type": "literal",
+          "value": "E39PBJpV6Fx8QQ4HMWytqr6HYP"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P10832"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "E39PBJpV6Fx8QQ4HMWytqr6HYP"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P12458"
+        },
+        "item": {
+          "type": "literal",
+          "value": "184748"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P12458"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "184748"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P13591"
+        },
+        "item": {
+          "type": "literal",
+          "value": "person/b24580dd-c955-4c2f-93a4-ba388c653deb"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct/P13591"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "person/b24580dd-c955-4c2f-93a4-ba388c653deb"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P269"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.idref.fr/088788873/id"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P269"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://www.idref.fr/088788873/id"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P648"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://openlibrary.org/works/OL3155869A"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P648"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://openlibrary.org/works/OL3155869A"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P1006"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://data.bibliotheken.nl/id/thes/p070594619"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P1006"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://data.bibliotheken.nl/id/thes/p070594619"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P1415"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://dx.doi.org/10.1093/ref:odnb/68827"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P1415"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://dx.doi.org/10.1093/ref:odnb/68827"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P2163"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://id.worldcat.org/fast/1717829"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P2163"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://id.worldcat.org/fast/1717829"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P2163"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://id.worldcat.org/fast/21058"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P2163"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://id.worldcat.org/fast/21058"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P6821"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:64325"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/direct-normalized/P6821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "http://www.alvin-portal.org/alvin/view.jsf?pid=alvin-person:64325"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P269"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-34E4D2A2-8E4F-44BE-A2A7-F25B44957DCC"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P269"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-34E4D2A2-8E4F-44BE-A2A7-F25B44957DCC"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P373"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-269593c0-4c10-6a57-e54e-676d074c3ab2"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P373"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-269593c0-4c10-6a57-e54e-676d074c3ab2"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P463"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-F7D2AFEB-12BF-4F32-8EB7-74632508AD2F"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P463"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-F7D2AFEB-12BF-4F32-8EB7-74632508AD2F"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P569"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/q367200-D5FB23A9-2955-4E2A-8F82-BFB59E601D66"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P569"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/q367200-D5FB23A9-2955-4E2A-8F82-BFB59E601D66"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P570"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/q367200-CEE764EB-809B-44DF-A375-AB80797C4DE3"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P570"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/q367200-CEE764EB-809B-44DF-A375-AB80797C4DE3"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P646"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-FC4EE852-0DE2-448B-8673-1D266531F518"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P646"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-FC4EE852-0DE2-448B-8673-1D266531F518"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P648"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-7C4A100C-3853-4B75-A17C-CEAFDE9BCB6D"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P648"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-7C4A100C-3853-4B75-A17C-CEAFDE9BCB6D"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P691"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-24E9B3C6-38DF-47FE-9144-DD15ECB9FBCC"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P691"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-24E9B3C6-38DF-47FE-9144-DD15ECB9FBCC"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P734"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-E5A0D7FD-2939-49D6-B637-4CE41FDD7987"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P734"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-E5A0D7FD-2939-49D6-B637-4CE41FDD7987"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P735"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-5658ab7f-4236-36ee-6163-20b4969fd900"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P735"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-5658ab7f-4236-36ee-6163-20b4969fd900"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P735"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-B2A144D6-1968-4A6F-8790-2F18EE81EC7A"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P735"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-B2A144D6-1968-4A6F-8790-2F18EE81EC7A"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P1006"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-C127EB01-27C1-415D-9971-CD9143971EF9"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P1006"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-C127EB01-27C1-415D-9971-CD9143971EF9"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P1153"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-F854049C-045C-4D62-AEB4-44F94D7AA07C"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P1153"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-F854049C-045C-4D62-AEB4-44F94D7AA07C"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P1207"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-9630C52B-C9C5-4FC5-870C-4D766F30F78E"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P1207"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-9630C52B-C9C5-4FC5-870C-4D766F30F78E"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P1412"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-799CCF0F-9B35-4520-922C-8687FCF0046B"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P1412"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-799CCF0F-9B35-4520-922C-8687FCF0046B"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P1415"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-DA078A51-03F3-431D-BBF2-E69B5B9DE66C"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P1415"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-DA078A51-03F3-431D-BBF2-E69B5B9DE66C"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P2163"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-38B37164-570E-4783-8969-A62E84DE5B00"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P2163"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-38B37164-570E-4783-8969-A62E84DE5B00"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P2163"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-FCE76DCD-8EF4-49CC-B783-99BAF8AEA689"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P2163"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-FCE76DCD-8EF4-49CC-B783-99BAF8AEA689"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P2963"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-af9b1514-2ef0-493e-925b-ab9d15472249"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P2963"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-af9b1514-2ef0-493e-925b-ab9d15472249"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P3029"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-15FFE0B3-5E36-4665-B529-9AFFA1161F3F"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P3029"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-15FFE0B3-5E36-4665-B529-9AFFA1161F3F"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P3360"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-02FFA13F-507C-4391-BFDA-21B4D6220CE9"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P3360"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-02FFA13F-507C-4391-BFDA-21B4D6220CE9"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P3368"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-20EA3F55-9ADF-4E6D-82E3-AAD91A1457D7"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P3368"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-20EA3F55-9ADF-4E6D-82E3-AAD91A1457D7"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P3430"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-A4651A48-2835-4FA4-BC13-8DDC75D4BF16"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P3430"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-A4651A48-2835-4FA4-BC13-8DDC75D4BF16"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P5731"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-D89130F3-3826-4A71-8151-BBF3F64A3953"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P5731"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-D89130F3-3826-4A71-8151-BBF3F64A3953"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P6821"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-8F29246A-464E-4CD1-B321-10491D6E0EBC"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P6821"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-8F29246A-464E-4CD1-B321-10491D6E0EBC"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P7293"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-9E9DAAFD-6A5B-4EF4-85BE-9975451078B8"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P7293"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-9E9DAAFD-6A5B-4EF4-85BE-9975451078B8"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P8189"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-E89E2797-CBD7-43FB-93EC-B9AC4616C4B2"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P8189"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-E89E2797-CBD7-43FB-93EC-B9AC4616C4B2"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P10704"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-F3A2AA42-C552-42D7-84F6-BBB81AB802EB"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P10704"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-F3A2AA42-C552-42D7-84F6-BBB81AB802EB"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P10832"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-C2D05A14-525C-4A72-A5F3-2EE6694CAEF4"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P10832"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-C2D05A14-525C-4A72-A5F3-2EE6694CAEF4"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P12458"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-FD6648B7-6CF5-497A-9F94-B67DCBA687C9"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P12458"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-FD6648B7-6CF5-497A-9F94-B67DCBA687C9"
+        }
+      },
+      {
+        "connection": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/P13591"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q367200-5C60DFF6-09C3-4451-9360-C5AC225D8B2E"
+        },
+        "connectionLabel": {
+          "type": "literal",
+          "value": "http://www.wikidata.org/prop/P13591"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "statement/Q367200-5C60DFF6-09C3-4451-9360-C5AC225D8B2E"
+        }
+      }
+    ]
+  }
+}

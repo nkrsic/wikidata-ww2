@@ -1,6 +1,9 @@
+import * as fs from "node:fs"
+
+
 const endpointUrl = "https://query.wikidata.org/sparql";
 const sparqlQuery = `
-SELECT ?connection ?item ?itemLabel 
+SELECT ?connection ?connectionLabel ?item ?itemLabel 
 WHERE {
   wd:Q367200 ?connection ?item.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
@@ -8,19 +11,16 @@ WHERE {
 
 async function fetchSparqlQuery(query) {
     const headers = {
-        "Content-Type": "application/x-www-form-urlencoded",
         "Accept": "application/sparql-results+json",
-        "User-Agent": "Mozilla/5.0 (compatible; MySPARQLClient/1.0; +https://example.com)"
+        "User-Agent": "MyNodeApp/1.0",
     };
 
-    const body = new URLSearchParams();
-    body.append("query", query);
+    const endpoint = endpointUrl + "?query=" + encodeURIComponent(sparqlQuery);
 
     try {
-        const response = await fetch(endpointUrl, {
-            method: "POST",
+        const response = await fetch(endpoint, {
+            method: "GET",
             headers,
-            body,
         });
 
         if (!response.ok) {
@@ -28,14 +28,14 @@ async function fetchSparqlQuery(query) {
         }
 
         const data = await response.json();
-        console.log(data);
+        console.log(`Query returned ${data.results.bindings.length} results`);
 
+        fs.writeFileSync("data.json", JSON.stringify(data, null, 2))
 
-        console.log("----------")
-        data.results.bindings.forEach(o => {
-            console.log(`${o.item.value} -- ${JSON.stringify(o.itemLabel.value, null, 2)}`)
-        });
-
+        // console.log("----------")
+        // data.results.bindings.forEach(o => {
+        //     console.log(`${o.item.value} -- ${JSON.stringify(o.itemLabel.value, null, 2)}`)
+        // });
 
         return data;
     } catch (error) {

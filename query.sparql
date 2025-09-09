@@ -1,0 +1,5 @@
+SELECT ?connection ?connectionLabel ?item ?itemLabel 
+WHERE {
+  wd:Q367200 ?connection ?item.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
+}

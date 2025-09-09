@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Scrape data from Wikidata about WW2, inspired by \"Most Secret War\" by R.V. Jones",
   "main": "main.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
   "author": "Nikola Krsic",
