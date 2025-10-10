@@ -1,0 +1,8 @@
+SELECT ?subject ?subjectLabel ?property ?propertyLabel ?value ?valueLabel
+WHERE {
+  ?subject ?propUrl wd:Q71186602 .
+  ?property wikibase:directClaim ?propUrl .
+  BIND(wd:Q71186602 AS ?value)
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
