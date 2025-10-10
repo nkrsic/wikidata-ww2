@@ -1,0 +1,23 @@
+Proposed name:
+(The name of the property, e.g. “Sacred site identifier”)
+
+Data type:
+(Choose one: Item, String, External identifier, URL, Quantity, Time, Monolingual text, Globe coordinate, etc.)
+
+Domain (applicable to):
+(Which kinds of items this property applies to — e.g. “applies to sacred places, temples, and monuments.”)
+
+Allowed values / constraints:
+(Optional — define allowed formats, regex patterns, or value ranges. E.g. “must be a positive integer”, or “must match [A–Z0–9]{1,15}”.)_
+
+Motivation:
+(Why this property is needed. What gap does it fill? Why can’t existing properties do the job? What use cases will it unlock — infoboxes, queries, external linking, etc. This section is critical.)
+
+Examples:
+
+Qxxxxxx (Example item) → [Proposed property] → (Example value)
+
+Qyyyyyy (Another item) → [Proposed property] → (Example value)
+
+See also:
+(List similar or related properties, if any, to show you’ve checked redundancy. E.g. “related to P106 (occupation), but specifically for XYZ.”)

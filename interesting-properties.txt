@@ -1,0 +1,3 @@
+P1343,"described by source",https://www.wikidata.org/wiki/Property:P1343
+P1435,"heritage designation",https://www.wikidata.org/wiki/Property:P1435
+

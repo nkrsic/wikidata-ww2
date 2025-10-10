@@ -28,3 +28,10 @@ Calls to Wikidata are intermittently failing
 ## Dereferencing English labels for connections
 
 See `query-direct-claims.sparql` 
+
+## The Atlas of Holy Places & Sacred Sites
+
+Created the item in Wikidata
+
+Q136221724
+
